@@ -1,0 +1,51 @@
+.fifth-section {
+  background: url("/assets/img/Backgrounds/unsplash_7hww7t6NLcg.jpg") center / cover no-repeat;
+  font-family: 'Work Sans', sans-serif;
+}
+
+.fifth-section-container {
+  height: 0;
+  min-height: 1024px;
+  max-height: 1440px;
+  padding: 5rem 12px;
+}
+
+/* Fifth Section Headings */
+
+.fifth-section-h1 {
+  font-size: 50px;
+  font-weight: 700;
+  margin: 0px;
+  color: #0B120E;
+}
+
+.fifth-section-paragraph {
+  color: #EAF2E4;
+  font-size: 22px;
+  margin-bottom: 5rem;
+  margin-top: 2rem;
+}
+
+@media (min-width: 768px) {
+  .fifth-section-paragraph {
+    width: 650px;
+  }
+}
+
+/* Fifth Section Button */
+
+.fifth-section-button {
+  color: #1F3429;
+  font-size: 22px;
+  font-weight: 600;
+  padding: 1rem 5rem;
+  background: #70A64D;
+  border-style: none;
+  border-radius: 25px;
+}
+
+.fifth-section-button:hover {
+  background: #659545;
+  color: #1C2F25;
+}
+

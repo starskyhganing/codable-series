@@ -1,0 +1,48 @@
+.seventh-section {
+  background: url("/assets/img/Backgrounds/Section%207.jpg") center / cover no-repeat;
+}
+
+.seventh-section-container {
+  height: 2100px;
+  min-height: 1024px;
+  padding: 5rem 12px;
+}
+
+/* Seventh Section Headings */
+
+.seventh-section-h1 {
+  font-weight: 700;
+}
+
+/* Seventh Section Cards */
+
+.seventh-section-cards-group {
+  margin-top: 5rem;
+}
+
+.seventh-section-card {
+  width: 350px;
+  height: 550px;
+  margin: 0px 2rem;
+  padding: 1.5rem;
+  border-radius: 20px;
+  margin-bottom: 5rem;
+  overflow: hidden;
+  background: #6246B2;
+  color: #FBF5F3;
+}
+
+.seventh-section-card-image {
+  width: 150px;
+  height: 150px;
+  margin-bottom: 1rem;
+}
+
+.seventh-section-card-title {
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+.seventh-section-card-paragraph {
+}
+
